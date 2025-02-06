@@ -1,2 +1,2 @@
 # Raleighmotorbikes
-A website project that i built for Carsrus a showroon located in Nairobi and Mombasa for Raleigh Motorcycles 
+A website project that i built for Carsrus a showroom located in Nairobi and Mombasa Kenya for Raleigh Motorcycles 
